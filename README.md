@@ -17,11 +17,13 @@
 4. Скриншот чтения и записи в память ПЗУ на STM32F407_Voltmeter.bin файла в среде STM32Programmer.
 
 ![Скриншот STM32Programmer](https://user-images.githubusercontent.com/19923990/142849766-1db31049-9a06-4cb6-a35f-08f67d876379.png)
-  |Discovery4|Stlink-v2||
+ 
+ |Discovery4|Stlink-v2||
   |----------|----------|
   |    VCC   |  +3.3В   |
   |    GND   |   GND    | 
   |    PA13  |  SWDIO   | 
   |    PA14  |  SWCLK   |
+  
 ![Фотография соединения Discovery4 c компьютером](https://user-images.githubusercontent.com/19923990/142849794-eb21ce3c-5dc9-47af-a11b-b9aa1ba8b47f.jpg)
 ![Генератор сигнала на хвуковой карте](https://user-images.githubusercontent.com/19923990/142856844-96e0ad28-5d1e-4d07-a629-b65b06338577.png)

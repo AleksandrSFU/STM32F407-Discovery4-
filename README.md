@@ -24,3 +24,4 @@
   |    PA13  |  SWDIO   | 
   |    PA14  |  SWCLK   |
 ![Фотография соединения Discovery4 c компьютером](https://user-images.githubusercontent.com/19923990/142849794-eb21ce3c-5dc9-47af-a11b-b9aa1ba8b47f.jpg)
+![Генератор сигнала на хвуковой карте](https://user-images.githubusercontent.com/19923990/142856844-96e0ad28-5d1e-4d07-a629-b65b06338577.png)
